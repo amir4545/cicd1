@@ -1,5 +1,4 @@
 image: hashicorp/terraform:latest
-	
 
 variables:
 	AWS_ACCESS_KEY_ID: ${MY_AWS_ACCESS_KEY}
